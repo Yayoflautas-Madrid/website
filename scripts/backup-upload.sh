@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ## source environmient variables for later use
-source /home/ubuntu/website/secrets/prod-secrets.sh
+source /home/ubuntu/website/secrets/environment_variables.sh
 
 BACKUPS_DIR=/home/ubuntu/backups
 
